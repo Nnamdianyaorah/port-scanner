@@ -118,6 +118,17 @@ End port: 65535
 ```
 ⚠️ **Note**: Full scans take longer (~15-20 minutes)
 
+## 📸 Screenshots
+
+### Scan in Progress
+![Scanning](screenshots/screenshot1_scanning.png)
+
+### Scan Results
+![Results](screenshots/screenshot2_results.png)
+
+### JSON Report
+![Report](screenshots/screenshot3_report.png)
+
 ## 🛡️ Security Recommendations
 
 The scanner automatically detects and warns about potentially risky open ports:
